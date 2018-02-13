@@ -1,0 +1,2 @@
+# fsexercises
+fsharp exercises
