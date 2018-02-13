@@ -4,7 +4,7 @@ VisualStudioVersion = 15.0.27130.2027
 MinimumVisualStudioVersion = 15.0.26124.0
 Project("{6EC3EE1D-3C4E-46DD-8F32-0CC8E7565705}") = "01", "01\01.fsproj", "{648C35FC-D78A-49D4-9B59-E4680757BD70}"
 EndProject
-Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Two", "Two\Two.fsproj", "{307CBB6A-37E5-4A19-B831-5A37AE290C6F}"
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "02", "02\02.fsproj", "{307CBB6A-37E5-4A19-B831-5A37AE290C6F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
